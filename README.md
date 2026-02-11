@@ -29,6 +29,7 @@ Confirm you are inside the container:
 - Terminal `pwd` prints `/app`
 
 ## Run (inside container)
+- Ensure the Demo.java file is selected and is the active window.
 - Run the code in debug mode with the debug button on the left.
 
 
