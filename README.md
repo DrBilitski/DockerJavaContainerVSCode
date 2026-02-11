@@ -31,3 +31,19 @@ Confirm you are inside the container:
 ## Run (inside container)
 - Run the code in debug mode with the debug button on the left.
 
+
+
+
+## To Return to Host (Exit Dev Container)
+
+To leave the Dev Container and return to your normal host environment:
+
+1. Press `Ctrl + Shift + P` 
+2. Run: **Dev Containers: Reopen Folder Locally**
+
+VS Code will reload and reopen the project on your host machine.
+
+Confirm you are back on host:
+- Bottom-left no longer shows `Dev Container`
+- Terminal `pwd` shows a Windows or macOS path (not `/app`)
+
